@@ -1,0 +1,20 @@
+# Compiled class files
+*.class
+
+# IDE files
+.idea/
+*.iml
+.eclipse/
+.settings/
+.classpath
+.project
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Data backup folders (auto-generated)
+data/backup_*/
